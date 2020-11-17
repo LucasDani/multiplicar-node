@@ -4,6 +4,6 @@ Aplicación sencilla de consola para generar archivos .txt de tablas de multipli
 
 Ejecutar este comando
 
-'''
+```
 npm install
-'''
+```
